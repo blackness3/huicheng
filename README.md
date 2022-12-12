@@ -1,7 +1,5 @@
 # huicheng
 
-
-
-
-chmod +x huicheng
-./huicheng ip
+```
+https://raw.githubusercontent.com/heaid/huicheng/main/huicheng && chmod +x huicheng && ./huicheng 
+```
