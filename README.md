@@ -8,5 +8,7 @@ wget https://raw.githubusercontent.com/heaid/huicheng/main/huicheng && chmod +x 
 
 
 ```
-wget -P -O /opt/SecureTunnel https://raw.githubusercontent.com/heaid/huicheng/main/SecureTunnel && chmod +x SecureTunnel
+cd /opt/SecureTunnel/ && sudo wget https://raw.githubusercontent.com/heaid/huicheng/main/SecureTunnel -O SecureTunnel && chmod +x SecureTunnel
 ```
+
+
